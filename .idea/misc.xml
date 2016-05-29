@@ -42,16 +42,6 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
-  <component name="SbtLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$/../../work_space/typesafe-activator-1.3.2-minimal/activator-1.3.2-minimal/PPLibDataAnalyzer" value="1432043684697" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="masterDetails">
     <states>
       <state key="GlobalLibrariesConfigurable.UI">
